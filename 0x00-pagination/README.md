@@ -15,7 +15,7 @@ Pagination is a crucial technique in backend development to handle large dataset
 
 ## Project Structure
 
-```
+```sh
 0x00-pagination/
 ├── README.md
 ├── example1/
